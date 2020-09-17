@@ -1,7 +1,7 @@
 # RADiCAL FBX to Unreal Retargeting Assets
 
  
-This repository provides tools for retargeting the imported RADiCAL 3.1 skeleton animations to the default Epic skeleton. We have set up the Bone Mapping from RADiCAL 3.1 to the Humanoid Rig, as well as a standard T-Pose for the Epic skeleton. ![Learn more about RADiCAL Motion here.](https://getrad.co/)
+This repository provides tools for retargeting the imported RADiCAL 3.1 skeleton animations to the default Epic skeleton. We have set up the Bone Mapping from RADiCAL 3.1 to the Humanoid Rig, as well as a standard T-Pose for the Epic skeleton. [Learn more about RADiCAL Motion here.](https://getrad.co/)
 
 We have included some sample FBX files you can use to test this process.
 
